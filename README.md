@@ -1,12 +1,9 @@
-# React + Vite
+# NagarSaarthi ♻️  
+**AI-Powered Citizen-Centric Smart Urban Waste Management System**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NagarSaarthi is a full-stack, AI-driven platform developed for **Smart India Hackathon 2025**, enabling citizens and municipal authorities to collaboratively manage urban waste through intelligent reporting and real-time insights.
 
-Currently, two official plugins are available:
+Citizens can report waste issues with images, while AI classifies waste into organic, recyclable, and non-recyclable categories. Municipal authorities monitor hotspots, optimize collection routes, and ensure faster resolutions—driving cleaner, smarter, and more sustainable cities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Live Demo: https://adyaarchita.github.io/NagarSaarthi  
+📦 Repository: https://github.com/AdyaArchita/NagarSaarthi
